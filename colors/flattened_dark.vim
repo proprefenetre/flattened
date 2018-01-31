@@ -17,7 +17,7 @@ set background=dark
 hi  ColorColumn                             ctermbg=0  guibg=#073642  gui=NONE
 hi  Comment                                 ctermfg=10  guifg=#586e75  gui=italic
 hi  ConId                                   ctermfg=3  guifg=#b58900  gui=NONE
-hi  Conceal                                 ctermfg=4  guifg=#268bd2  gui=NONE
+hi  Conceal                                 ctermfg=4  guifg=#268bd2  guibg=bg gui=NONE
 hi  Constant                                ctermfg=6  guifg=#2aa198  gui=NONE
 hi  Cursor                                  ctermfg=8  ctermbg=12  guifg=#002b36  guibg=#839496  gui=NONE
 hi  CursorColumn                            ctermbg=0  guibg=#073642  gui=NONE
